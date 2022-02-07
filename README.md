@@ -1,1 +1,1 @@
-"# usaco" 
+# _Usaco stuff_
