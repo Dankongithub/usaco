@@ -1,0 +1,14 @@
+# ninja log v5
+2	544	6745492347782728	CMakeFiles/wormhole.dir/main.cpp.obj	6bb0d41f3ddfbb57
+556	671	6745451236133568	wormhole.exe	f52d0c5a7eb0c710
+3	520	6745488637294212	CMakeFiles/abc.dir/abc.cpp.obj	ff0ceb6230f837ab
+0	209	6745492634785928	build.ninja	cb98238825de8dce
+520	623	6745488638278241	abc.exe	cfa511e1ed8531e1
+2	735	6745491071282475	CMakeFiles/wormhole.dir/abc.cpp.obj	dd551a4f74b04820
+3	125	6745492651706670	wormhole.exe	f52d0c5a7eb0c710
+2	615	6745494245666853	CMakeFiles/wormhole.dir/main.cpp.obj	6bb0d41f3ddfbb57
+616	731	6745494246813784	wormhole.exe	f52d0c5a7eb0c710
+2	1433	6745502328776434	CMakeFiles/wormhole.dir/main.cpp.obj	6bb0d41f3ddfbb57
+1439	1559	6745502330039936	wormhole.exe	f52d0c5a7eb0c710
+2	849	6749623490622627	CMakeFiles/wormhole.dir/main.cpp.obj	6bb0d41f3ddfbb57
+850	1187	6749623493973715	wormhole.exe	f52d0c5a7eb0c710
